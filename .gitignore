@@ -1,0 +1,13 @@
+# Comment
+
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log[0-9]
+assets/photoshop/
+assets/video/
+!assets/video/tour_*.mp4
+
+# question: whould log/archive/access.log be ignored? No.
